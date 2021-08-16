@@ -1,6 +1,6 @@
 # Popcat Hack
 
-Demo https://popcat.click/
+Target https://popcat.click/
 
 ```shell
 1.Go to popcat website
