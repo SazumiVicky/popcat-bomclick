@@ -1,4 +1,3 @@
-//Copyright popcat-bomclik 2021
 eval(function(p, a, c, k, e, d, b, f, r) {
     while (c--) {
       if (k[c]) {
